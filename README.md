@@ -19,16 +19,16 @@ You can check if these are installed by running the following commands:
 
 ```bash
 
-After you have installed Node.js and Yarn, you can install the dependencies using `yarn` and start the local preview
+After you have installed you can install the dependencies using  and start the local preview
 
 Once started, a live preview 
-## Contribute to MDN Web Docs
+#Contribute to MDN Web Docs
 
-You can contribute to MDN Web Docs and be a part of our community through content contributions, engineering, or translation work.
+You can contribute to MDN Web Docs and be a part of our community through content contributions, engineering,  work.
 The MDN Web Docs project welcomes contributions from everyone who shares our goals and wants to contribute constructively and respectfully within our community.
 
-To find out how to get started, see the contribution  document in this repository.
-By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our [Code of Conduc
-Get in touch
+To find out how to get started, see the contribution  document  this repository.
+By participate and contributing to our projects and discussions, you acknowledge that you have read and agree to our 
+Get  touch
 
 You can communicate with the MDN Web Docs 
