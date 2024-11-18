@@ -19,7 +19,7 @@ You can check if these are installed by running the following commands:
 
 ```bash
 
-After you have installed you can install the dependencies using  and start the local preview
+After you have installed you can install the dependencies using  and start the preview
 
 Once started, a live preview 
 #Contribute to MDN Web Docs
